@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SC2873-Y_TE12L,ZC
+D Pb-F POWER TRANSISTOR PW-MINI MOQ=1000 V=50 PD=0.5W F=120MHZ
+F https://toshiba.semicon-storage.com/
+$ENDCMP
+#
+#End Doc Library

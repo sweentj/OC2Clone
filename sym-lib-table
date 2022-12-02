@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name oc2Clone)(type Legacy)(uri ${KIPRJMOD}/oc2Clone.lib)(options "")(descr ""))
+)
